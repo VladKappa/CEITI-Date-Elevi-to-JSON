@@ -145,6 +145,7 @@ buildNumber.properties
 .flattened-pom.xml
 
 
-date*
+date.json
+date.html
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,maven,java
